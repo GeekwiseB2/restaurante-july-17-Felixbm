@@ -105,3 +105,28 @@ button.btn-warning {
   font-size:170px;
 }
 /*Our story ends*/
+/*Fresno bee section begins*/
+.review-image {
+  background-image: url(../img/food_review.jpg);
+  background-size:cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 490px;
+}
+
+.jumbotron {
+  background-color:rgba(0,0,0, .6);
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.review-text p {
+  color:#fff;
+  line-height: 36px;
+}
+
+.review-text h1 {
+  color:#f8512f;
+  text-shadow: 1px 1px 2px #333;
+  font-size: 5em;
+
+}
