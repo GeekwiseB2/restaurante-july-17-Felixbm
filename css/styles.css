@@ -1,3 +1,5 @@
+
+
 @import url('https://fonts.googleapis.com/css?family=Lobster|Playfair+Display');
 </style>
 
@@ -128,5 +130,37 @@ button.btn-warning {
   color:#f8512f;
   text-shadow: 1px 1px 2px #333;
   font-size: 5em;
+}
 
+/*menu starts*/
+#menu {
+  background-image: url(../img/black_linen.png);
+  height:600px;
+}
+
+
+#menu a  {
+  color:#f8512f;
+}
+#menu h1 {
+  font-family: 'Lobster',cursive;
+  color:#fff;
+}
+
+.food {
+  background-color: #fff;
+  max-height: 425px;
+  overflow:auto;
+  padding: 8px 12px;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+color:#f8512f; }
+
+.nav-tabs>li>a:hover {
+  border-style: none;
+}
+
+.nav-tabs.nav-justified>.active>a:hover {
+  background-color:
 }
