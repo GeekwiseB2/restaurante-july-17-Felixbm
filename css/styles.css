@@ -1,7 +1,10 @@
 
 
 @import url('https://fonts.googleapis.com/css?family=Lobster|Playfair+Display');
-</style>
+
+body {
+  position: relative;
+}
 
 
 
@@ -163,4 +166,18 @@ color:#f8512f; }
 
 .nav-tabs.nav-justified>.active>a:hover {
   background-color:
+}
+/*contact begins*/
+
+.contact-container {
+  background-color: #f8512f;
+
+}
+
+form {
+  background-color: #ff6633;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding: 20px 20px;
+
 }
